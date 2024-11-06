@@ -1,4 +1,4 @@
-New Airdrops: Dawn Internet
+// Dawn Internet
 🏷️ Reward : Dawn Point
 ➡️ Install Ektension (https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp) 
 ➖ Open & Signup 
